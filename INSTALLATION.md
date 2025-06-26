@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f62d405d-f62a-41f3-bbf7-83099b77bdfb)![image](https://github.com/user-attachments/assets/f62d405d-f62a-41f3-bbf7-83099b77bdfb)# Step 1
+
+# Step 1
 
 Open a new terminal in your mac
 
