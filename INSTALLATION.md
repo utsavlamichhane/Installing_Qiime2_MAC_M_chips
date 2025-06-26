@@ -141,4 +141,4 @@ qiime info
 
 If you see no error (red lines in your Terminal)
 
-# Congratulations you have QIIME2 in your computer. 
+# Congratulations you have QIIME2. 
