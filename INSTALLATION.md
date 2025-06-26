@@ -1,4 +1,4 @@
-# This is for installing QIIME2 in M1/M2/M3/M4 Macs
+# For installing QIIME2 in M1/M2/M3/M4 Macs
 
 
 # Step 1
