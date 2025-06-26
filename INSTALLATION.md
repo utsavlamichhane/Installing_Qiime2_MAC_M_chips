@@ -129,7 +129,7 @@ Close and quit the Terminal_Rosetta
 
 # Now you have QIIME2 Installed in your system
 
-# step 19
+# Step 19
 
 Just to confirm that run the following command in your normal Terminal (no need to use the Terminal_Rosetta now onwards):
 
