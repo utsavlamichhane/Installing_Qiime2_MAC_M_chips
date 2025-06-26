@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d4b74b20-18c6-440b-a28c-54d6c43cce1f)![image](https://github.com/user-attachments/assets/d4b74b20-18c6-440b-a28c-54d6c43cce1f)# Step 1
+![image](https://github.com/user-attachments/assets/f62d405d-f62a-41f3-bbf7-83099b77bdfb)![image](https://github.com/user-attachments/assets/f62d405d-f62a-41f3-bbf7-83099b77bdfb)# Step 1
 
 Open a new terminal in your mac
 
@@ -116,8 +116,28 @@ conda activate qiime2-amplicon-2025.4
 conda config --env --set subdir osx-64
 ```
 
+ # THIS PROCESS WILL TAKE A WHILE
 
 
+At the end, terminal might ask yes/no, go with  yes
+
+# Step 18
+
+Close and quit the Terminal_Rosetta
 
 
+# Now you have QIIME2 Installed in your system
 
+# step 19
+
+Just to confirm that run the following command in your normal Terminal (no need to use the Terminal_Rosetta now onwards):
+
+```
+conda deactivate
+conda activate qiime2-amplicon-2025.4
+qiime info
+```
+
+If you see no error (red lines in your Terminal)
+
+# Congratulations you have QIIME2 in your computer. 
