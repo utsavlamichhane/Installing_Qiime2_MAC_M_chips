@@ -45,7 +45,7 @@ Open a terminal again.
 
 # Step 7
 
-Lets intitalize the conda by running following two codes in sequence:
+Lets intitalize the conda by running following two codes in sequence (one by one):
 
 ```
 source ~/miniconda3/bin/activate
