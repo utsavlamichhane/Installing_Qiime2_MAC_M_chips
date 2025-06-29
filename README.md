@@ -14,10 +14,10 @@ INSTALLATION.md: Detailed, step-by-step guide for setting up QIIME 2 on macOS M
 
 Quick Start
 
-After completing the installation steps:
+After completing the installation steps, runt he following code in your terminal.
 
 ```
-conda activate qiime2-2024.6
+conda activate qiime2-2025.4
 qiime --help
 ```
 Verify QIIME 2 is working by running qiime info.
