@@ -28,8 +28,6 @@ QIIME 2 Documentation: https://docs.qiime2.org
 
 QIIME 2 Forum: https://forum.qiime2.org
 
-License
 
-This project is released under the MIT License. See LICENSE for details.
 
 Contact me if you have any confusion: www.utsavlamichhane.com
