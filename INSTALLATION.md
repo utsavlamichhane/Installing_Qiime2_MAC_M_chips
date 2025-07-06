@@ -15,7 +15,7 @@ mkdir -p ~/miniconda3
 
 # Step 3
 
-Then get the .sh (script) using the following code:
+Then get the .sh (Shell script) using the following code:
 
 ```
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
